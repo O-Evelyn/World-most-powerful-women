@@ -1,1 +1,3 @@
 # World most powerful women
+This project is aimed at presenting women who are involved in various aspect of society in positions where they could be classified as been powerful especially when it involves decision making and perhaps motivate other women to get involved in areas where women are so under represented, it could also help young women who have difficulty in choosing carrier pathway to make decisions on what they would rather pursue.
+Everyone who would like to highlight women's contribution to the society in which ever aspect is allowed to contribute to this repository for the greater good of women and the girl child.
